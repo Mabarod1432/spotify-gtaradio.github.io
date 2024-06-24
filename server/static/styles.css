@@ -1,0 +1,23 @@
+:root{
+ --background-color-:#fff8f0;
+ --background-color1-:#12130F;
+
+}
+
+body{
+    margin: auto;
+    background-color: var(--background-color-);
+}
+
+.navback{
+    background-color:var(--background-color1-);
+    color: var(--background-color-);
+    align-content:center;
+    align-items: center;
+    text-align: center;
+}
+
+#gitlogo{
+    width: 5%;
+
+}

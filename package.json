@@ -7,7 +7,7 @@
     "server": "node server/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Maba_rod",
   "license": "ISC",
   "description": "",
   "dependencies": {
